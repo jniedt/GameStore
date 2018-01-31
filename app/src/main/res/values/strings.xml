@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GameStore</string>
+    <!--Supplier Names and Emails-->
+    <string name="c_titan">Card Titan</string>
+    <string name="c_titan_email">ct_dummy@squeemail.freemail</string>
+    <string name="cs_inc">CoolStuff Inc.</string>
+    <string name="cs_email">cs_dummy@squeemail.freemail</string>
+    <string name="m_market">Minature Market</string>
+    <string name="m_m_email">mm_dummy@squeemail.freemail</string>
+</resources>
